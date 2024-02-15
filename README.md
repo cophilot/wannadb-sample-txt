@@ -7,4 +7,8 @@
   </p>
 </div>
 
+## How to download?
+
+You can download the files by clicking on the green `Code` button above and then clicking on `Download ZIP`.
+
 ![How_to](how_to.jpg)
