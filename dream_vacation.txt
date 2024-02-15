@@ -1,0 +1,6 @@
+Destination: The Moon
+Accommodation: Lunar Module
+Activities: Moonwalking, Crater Hopping, Alien Spotting
+Food: Astronaut Ice Cream, Moon Pies
+Transport: Rocket Ship
+Souvenirs: Moon Rocks

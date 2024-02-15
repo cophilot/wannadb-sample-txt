@@ -1,0 +1,7 @@
+Name,Type,Origin
+"Orange","Fruit","China"
+"Carrot","Vegetable","Middle East"
+"Pumpkin","Vegetable","North America"
+"Mango","Fruit","South Asia"
+"Apricot","Fruit","China"
+"Papaya","Fruit","Central America"

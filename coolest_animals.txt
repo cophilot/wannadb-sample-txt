@@ -1,0 +1,100 @@
+1. Snow Leopard
+2. Giant Panda
+3. Bald Eagle
+4. African Elephant
+5. Axolotl
+6. Narwhal
+7. Komodo Dragon
+8. Capybara
+9. Red Panda
+10. Platypus
+11. Quokka
+12. Sloth
+13. Fennec Fox
+14. Arctic Fox
+15. Dumbo Octopus
+16. Tardigrade
+17. Mantis Shrimp
+18. Thorny Devil
+19. Pangolin
+20. Tasmanian Devil
+21. Peacock Spider
+22. Star-Nosed Mole
+23. Aye-Aye
+24. Leafy Sea Dragon
+25. Okapi
+26. Blobfish
+27. Proboscis Monkey
+28. Shoebill
+29. Kakapo
+30. Saiga Antelope
+31. Japanese Spider Crab
+32. Glaucus Atlanticus
+33. Satanic Leaf-Tailed Gecko
+34. Tufted Deer
+35. Maned Wolf
+36. Irrawaddy Dolphin
+37. Tarsier
+38. Jerboa
+39. Tapir
+40. Sun Bear
+41. Sugar Glider
+42. Emperor Tamarin
+43. Dik-Dik
+44. Serval
+45. Ocelot
+46. Margay
+47. Caracal
+48. Lynx
+49. Bobcat
+50. Cheetah
+51. Jaguar
+52. Leopard
+53. Lion
+54. Tiger
+55. Puma
+56. Snowy Owl
+57. Harpy Eagle
+58. Kingfisher
+59. Hummingbird
+60. Peacock
+61. Flamingo
+62. Toucan
+63. Macaw
+64. Penguin
+65. Albatross
+66. Puffin
+67. Kiwi
+68. Cassowary
+69. Emu
+70. Ostrich
+71. Kangaroo
+72. Koala
+73. Wombat
+74. Tasmanian Tiger
+75. Dingo
+76. Wallaby
+77. Platypus
+78. Echidna
+79. Numbat
+80. Quokka
+81. Bandicoot
+82. Bilby
+83. Possum
+84. Sugar Glider
+85. Tree Kangaroo
+86. Thorny Devil
+87. Frilled-Neck Lizard
+88. Saltwater Crocodile
+89. Komodo Dragon
+90. Galapagos Tortoise
+91. Marine Iguana
+92. Chameleon
+93. Gila Monster
+94. Anaconda
+95. Boa Constrictor
+96. Python
+97. Cobra
+98. Viper
+99. Sea Turtle
+100. Leatherback Sea Turtle

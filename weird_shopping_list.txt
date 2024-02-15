@@ -1,0 +1,10 @@
+Item,Quantity
+"Unicorn Slippers",1
+"Invisible Ink Pen",3
+"Edible Glitter",2
+"Rubber Duckies",50
+"Glow in the Dark Toilet Paper",4
+"Zombie Survival Guide",1
+"Banana Slicer",1
+"Yodeling Pickle",1
+"Cat Keyboard",1

@@ -1,0 +1,12 @@
+{
+    "JSON": {
+        "Full Form": "JavaScript Object Notation",
+        "Description": "JSON is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate.",
+        "Uses": "It is primarily used to transmit data between a server and a web application, serving as an alternative to XML.",
+        "Structure": {
+            "Objects": "Objects in JSON are surrounded by curly braces {} and are written as name/value pairs separated by a colon.",
+            "Arrays": "Arrays in JSON are ordered lists and are surrounded by square brackets [].",
+            "Values": "Values in JSON can be a string, number, object, array, boolean or null."
+        }
+    }
+}
